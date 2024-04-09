@@ -13,7 +13,7 @@ export default defineConfig({
       input: {
         main: path.resolve(__dirname, 'index.html'),
         nested: path.resolve(__dirname,  'index.html'),
-       
+       login: path.resolve(__dirname, 'index.html'),
       },
     },
 }})
